@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Android </h1>
 
 <p align="center">
-Projeto Android desenvolvido no curso de HTML e CSS.<br/>
+Projeto Android desenvolvido durante o curso de HTML e CSS.<br/>
 </p>
 
 <p align="center">
